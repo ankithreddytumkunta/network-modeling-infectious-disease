@@ -150,7 +150,7 @@ Network_Modeling_Infectious_Disease/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/network-modeling-infectious-disease.git
+git clone https://github.com/ankithreddytumkunta/network-modeling-infectious-disease.git
 ```
 
 2. Navigate into the project folder:
